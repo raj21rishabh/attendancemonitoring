@@ -1,6 +1,5 @@
 attendance management
 ====================
 
-Attendance Management System for Computer Departement, JMI
+Attendance Management System for Computer Departement, SRMCEM
 
-Find the setup instructions here : https://github.com/zishanAhmad/attendance/wiki/Setup
